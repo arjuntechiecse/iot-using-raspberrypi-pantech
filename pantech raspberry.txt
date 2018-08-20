@@ -1,0 +1,64 @@
+raspberry pi b 3(32 gb is comfortable)
+raspbian gesy os(DEBIAN)
+bcm 2837 processor(1.2 ghz)
+raspberry.org /downloads >> for downloads>> sd card formatter>>win 32 disk imager
+192.168.43.40
+192.168.1.101//ip
+username:pi
+password:raspberry
+
+
+linux commands:
+--------------------------
+we are using lti terminal.
+to know the current directory :pwd 
+to list filed in the command: ls
+leafpad for editing text
+to read the contents in txt file: cat with filename
+to edit the file.txt:nano with filename.
+to ctrl +o to save and ctrl+x to exit
+to acees the admin directory use:sudo 
+then to create a directory:mkdir
+to install external application: sudo apt-get install file name(example apache2)
+Python 2 basisc:
+------------------------
+raw_input()>>for getting string input
+append() is used to add a new element to the list
+pop( ) is used to cut an element
+a=[]>>list
+a=()>>tuple
+a={}>>dictionary
+Python conditional stmts:
+----------------------------
+   if():
+   elif:
+   else:
+looping statements  in python:
+----------------------------------
+     $var$function name
+     ^     ^
+for i in range(10):
+explanation>>range(start,stop,increment) if it is in integer or else it can be any variable
+
+
+function:
+-----------
+def functionname(var1,var2):
+RBPI pin :
+------------
+two modes -bcm or board mode
+
+ctrl+c >>for keyboard interrupt
+to avoid set warning error: GPIO.setwarnings(False)
+ultrasonic sense limit 180 cm
+--------------------------------
+
+for text to speech appilication:sudo espeak pickaboo
+-------------------------------------------------------------
+
+for real time image processing:open cv
+
+
+
+           
+
